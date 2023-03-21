@@ -1,0 +1,1 @@
+print("Şampiyon\tGalatasaray\t")
