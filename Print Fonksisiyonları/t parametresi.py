@@ -1,1 +1,0 @@
-print("Şampiyon\tGalatasaray\t")
